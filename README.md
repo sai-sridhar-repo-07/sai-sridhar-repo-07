@@ -1,114 +1,61 @@
-<div align="center">
+# 👋 Hi, I'm Tarra Sai Sridhar 
 
-<!-- Animated Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E9D5FF,50:D8B4FE,100:C7F9CC&section=header&text=Tarra%20Sai%20Sridhar&fontSize=56&fontColor=2F2F2F&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=6B7280&center=true&vCenter=true&width=750&lines=Software+Engineer;Machine+Learning+Engineer;Designing+Scalable+Systems;Distributed+Architectures;Applied+AI+Systems" />
-
-</div>
+🚀 **Aspiring Software Development Engineer (SDE) & Machine Learning Engineer** 💻 Passionate about building scalable systems, intelligent applications, and beautiful user experiences. 
+🌱 Currently working at **Accenture** as **SAP SuccessFactors LMS Technical Support**, while upskilling in **full-stack development** and **machine learning**. 
 
 ---
 
-<br>
-
-## About
-
-I build scalable backend systems and real-time machine learning pipelines.  
-Focused on distributed architectures, system design, and applied artificial intelligence.
-
-Currently working in enterprise LMS analytics while building high-performance ML systems and full-stack platforms.
+## 🧑‍💻 About Me 
+- 🎯 **Career Goals**: Transition into SDE / ML Engineer roles focusing on backend systems, distributed computing, and applied AI. 
+- 📍 Based in India, open to opportunities globally. 
+- ⚡ Quick learner with a knack for solving complex problems, data-driven decision making, and building impactful applications. 
 
 ---
 
-<br>
+## 🛠️ Skills & Tools 
 
-## Selected Work
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DemandCast-F3E8FF?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/SkillSwap-D9F99D?style=for-the-badge&logoColor=black"/>
-
-</div>
+### 🤖 Machine Learning & AI 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,python" alt="ML Stack" />
+<!-- <img src="https://img.icons8.com/plasticine/100/artificial-intelligence.png" width="48" height="48" alt="AI Icon" />
+<img src="https://img.icons8.com/plasticine/100/machine-learning.png" width="48" height="48" alt="ML Icon" /> -->
 
 ---
 
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn&theme=light" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=cpp,js,c" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,express,postgres,mongodb,redis,kafka,docker" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
-
-</div>
+### 💻 Programming Languages 
+<img src="https://skillicons.dev/icons?i=python,js,cpp,c" alt="Programming Languages" />
 
 ---
 
-<br>
-
-## Focus Areas
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=2800&pause=900&color=4B5563&center=true&vCenter=true&width=700&lines=High-Performance+Backend+Systems;Real-Time+Inference+Pipelines;Scalable+Data+Engineering;1000%2B+DSA+Problems;Clean+Architecture+Thinking" />
-
-</div>
+### 🌐 Web Development 
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,express" alt="Web Development" />
 
 ---
 
-<br>
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sai-sridhar-repo-07&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&text_color=374151&icon_color=84CC16" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sridhar-repo-07&theme=transparent&hide_border=true&ring=84CC16&fire=A78BFA&currStreakLabel=7C3AED" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-sridhar-repo-07&bg_color=ffffff&color=7C3AED&line=84CC16&point=C4B5FD&hide_border=true"/>
-
-</div>
+### 🗄️ Backend & Databases 
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" alt="Backend and Databases" />
 
 ---
 
-<br>
+### 🛠️ Tools & Platforms 
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Tools and Platforms" />
 
-## Connect
+---
 
-<div align="center">
+## 🏆 Certifications & Achievements  
+- SAP SuccessFactors LMS Certified 
+- Consistently strong academic performance (8.74 CGPA in B.E) 
 
-<a href="https://sai-sridhar-repo-07.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-E9D5FF?style=for-the-badge&logo=google-chrome&logoColor=2F2F2F"/>
-</a>
+---
 
-<a href="https://github.com/sai-sridhar-repo-07">
-<img src="https://img.shields.io/badge/GitHub-D1FAE5?style=for-the-badge&logo=github&logoColor=2F2F2F"/>
-</a>
+## 📫 Connect With Me 
+<a href="https://sai-sridhar-repo-07.github.io/Portfolio/"><img src="https://img.icons8.com/fluency/96/domain.png" width="60" height="60" alt="Portfolio Icon" /></a>
+<a href="https://github.com/sai-sridhar-repo-07"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub Icon" /></a>
+<a href="https://www.linkedin.com/in/sai-sridhar-2a77561a2/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn Icon" /></a>
 
-<a href="https://www.linkedin.com/in/sai-sridhar-2a77561a2/">
-<img src="https://img.shields.io/badge/LinkedIn-C7F9CC?style=for-the-badge&logo=linkedin&logoColor=2F2F2F"/>
-</a>
+📧 **tarrasridhar1154@gmail.com**
 
-</div>
+---
 
-<br>
+⭐️ _“Code. Learn. Iterate. Repeat.”_
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:E9D5FF,50:D8B4FE,100:C7F9CC&section=footer"/>
-
-</div>
+make it more animated in this i will attach my resume both and make it animated and beautiful and eye catching please it should be super good and extraordinary
