@@ -1,59 +1,147 @@
-# 👋 Hi, I'm Tarra Sai Sridhar 
+<div align="center">
 
-🚀 **Aspiring Software Development Engineer (SDE) & Machine Learning Engineer** 💻 Passionate about building scalable systems, intelligent applications, and beautiful user experiences. 
-🌱 Currently working at **Accenture** as **SAP SuccessFactors LMS Technical Support**, while upskilling in **full-stack development** and **machine learning**. 
+# 🚀 TAR﻿RA SAI SRIDHAR  
+### ⚡ Software Development Engineer | Machine Learning Engineer | Data-Driven Builder
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Systems;Designing+AI-Powered+Applications;Competitive+Programmer+%7C+1000%2B+Problems;Fast+Learner+%7C+Deep+Thinker+%7C+System+Builder" />
 
-## 🧑‍💻 About Me 
-- 🎯 **Career Goals**: Transition into SDE / ML Engineer roles focusing on backend systems, distributed computing, and applied AI. 
-- 📍 Based in India, open to opportunities globally. 
-- ⚡ Quick learner with a knack for solving complex problems, data-driven decision making, and building impactful applications. 
+</div>
 
 ---
 
-## 🛠️ Skills & Tools 
+## 🌌 About Me
 
-### 🤖 Machine Learning & AI 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,python" alt="ML Stack" />
-<!-- <img src="https://img.icons8.com/plasticine/100/artificial-intelligence.png" width="48" height="48" alt="AI Icon" />
-<img src="https://img.icons8.com/plasticine/100/machine-learning.png" width="48" height="48" alt="ML Icon" /> -->
-
----
-
-### 💻 Programming Languages 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c" alt="Programming Languages" />
+🎯 Aspiring **SDE & ML Engineer** focused on backend systems, distributed architectures, and applied AI.  
+📊 Currently at **Accenture** working on enterprise-scale SAP SuccessFactors LMS analytics.  
+🧠 Passionate about solving large-scale system problems with ML + system design.  
+🌍 Based in India | Open to global opportunities.  
 
 ---
 
-### 🌐 Web Development 
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,tailwind,express" alt="Web Development" />
+## 🏢 Professional Experience
+
+### 🔹 Accenture — LMS Technical & Data Analyst  
+📍 Coimbatore | Nov 2023 – Present  
+
+✨ Automated workflows saving 20+ hours/month  
+✨ Reduced recurring system issues by 30% using EDA  
+✨ Designed dashboards for global HR & L&D teams  
+✨ Ensured 99.8% system uptime through data validation  
 
 ---
 
-### 🗄️ Backend & Databases 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" alt="Backend and Databases" />
+## 🚀 Featured Projects
+
+### 🔥 DemandCast — Large Scale Demand Forecasting System
+**Tech:** Python, PyTorch, XGBoost, FastAPI, Kafka, Redis, PostgreSQL  
+
+⚡ LSTM + Temporal Attention architecture  
+📉 22% lower MAPE vs ARIMA  
+🚀 1K+ predictions/sec | <50ms latency  
+📊 Drift detection + automated retraining  
 
 ---
 
-### 🛠️ Tools & Platforms 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Tools and Platforms" />
+### 💡 SkillSwap — Peer-to-Peer Microlearning Platform
+**Tech:** React, Node.js, MongoDB, PostgreSQL, WebRTC  
+
+🎥 Real-time video + whiteboard  
+💰 Credit-based microlearning economy  
+⚙️ Fraud prevention + reputation tracking  
+🌐 Full-stack distributed architecture  
 
 ---
 
-## 🏆 Certifications & Achievements  
-- SAP SuccessFactors LMS Certified 
-- Consistently strong academic performance (8.74 CGPA in B.E) 
+## 🧠 Machine Learning & AI
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn" />
+</div>
+
+- Deep Learning (LSTM, Temporal Models)
+- XGBoost, Regression Models
+- Model Monitoring & Drift Detection
+- EDA, Data Pipelines
+- LLMs, AI Agents, Generative AI
 
 ---
 
-## 📫 Connect With Me 
-<a href="https://sai-sridhar-repo-07.github.io/Portfolio/"><img src="https://img.icons8.com/fluency/96/domain.png" width="60" height="60" alt="Portfolio Icon" /></a>
-<a href="https://github.com/sai-sridhar-repo-07"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub Icon" /></a>
-<a href="https://www.linkedin.com/in/sai-sridhar-2a77561a2/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn Icon" /></a>
+## 💻 Programming
 
-📧 **tarrasridhar1154@gmail.com**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,c" />
+</div>
+
+🔥 1000+ Problems Solved  
+🏆 Codeforces Specialist (1448)  
+🏅 Strong DSA + Algorithms  
 
 ---
 
-⭐️ _“Code. Learn. Iterate. Repeat.”_
+## 🌐 Backend & Systems
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,express,postgres,mongodb,redis,kafka" />
+</div>
+
+- Distributed Systems
+- REST APIs
+- Real-time Systems
+- High-performance inference services
+
+---
+
+## 🛠 Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sai-sridhar-repo-07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sridhar-repo-07&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+✔ SAP SuccessFactors Learning Implementation Consultant  
+✔ SAP Generative AI Developer  
+✔ Microsoft Generative AI for Beginners  
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://sai-sridhar-repo-07.github.io/Portfolio/">
+<img src="https://img.icons8.com/fluency/96/domain.png" width="60" />
+</a>
+
+<a href="https://github.com/sai-sridhar-repo-07">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sai-sridhar-2a77561a2/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Code. Learn. Build. Scale. Repeat.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer"/>
+
+</div>
