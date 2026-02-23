@@ -321,6 +321,13 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 </div>
 
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
 <!-- ═══════════════════════════════════════════════════════════════
      SETUP GUIDE
      ═══════════════════════════════════════════════════════════════
