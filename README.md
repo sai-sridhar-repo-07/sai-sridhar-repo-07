@@ -302,6 +302,12 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 <br/>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 <!-- ─── FOOTER ────────────────────────────────────────────────────── -->
 
@@ -318,14 +324,12 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 **Sai Sridhar Tarra** &nbsp;·&nbsp; Hyderabad, IN &nbsp;·&nbsp; [github.com/sai-sridhar-repo-07](https://github.com/sai-sridhar-repo-07)
 
+
+
 </div>
 
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 <!-- ═══════════════════════════════════════════════════════════════
