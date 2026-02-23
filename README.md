@@ -1,7 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════
      GitHub Profile README — Sai Sridhar Tarra
-     Repo  : github.com/sai-sridhar-repo-07/sai-sridhar-repo-07
-     Theme : Dark · Minimal · Animated · Arcade
+     github.com/sai-sridhar-repo-07/sai-sridhar-repo-07
      ═══════════════════════════════════════════════════════════════ -->
 
 
@@ -41,7 +40,7 @@
 
 <br/>
 
-<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<!-- ─── DIVIDER ────────────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
 
 <br/>
@@ -66,7 +65,7 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 <br/>
 
-<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<!-- ─── DIVIDER ────────────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
 
 <br/>
@@ -97,28 +96,21 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
 
-#### Backend
+#### Backend & Frontend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=c9d1d9)
-![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge&logo=fastapi&logoColor=58a6ff)
-
-#### Frontend
-
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-#### DevOps & Tools
+#### DevOps & Databases
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-#### Databases
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
@@ -127,7 +119,7 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 <br/>
 
-<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<!-- ─── DIVIDER ────────────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
 
 <br/>
@@ -139,7 +131,6 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 ## `> Analytics`
 
-<!-- Primary stats row -->
 <img
   src="https://github-readme-stats.vercel.app/api?username=sai-sridhar-repo-07&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb&cache_seconds=1800"
   height="175"
@@ -154,47 +145,17 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 <br/>
 
-<!-- Top languages -->
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-sridhar-repo-07&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800"
   height="155"
   alt="Top Languages"
 />
 
-<br/><br/>
-
-<!-- Profile Summary Cards — second source, loads independently -->
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-sridhar-repo-07&theme=github_dark"
-  width="100%"
-  alt="Profile Details"
-/>
-
-<br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai-sridhar-repo-07&theme=github_dark"
-  height="165"
-  alt="Repos Per Language"
-/>
-&nbsp;
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sai-sridhar-repo-07&theme=github_dark"
-  height="165"
-  alt="Most Commit Language"
-/>
-&nbsp;
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sai-sridhar-repo-07&theme=github_dark"
-  height="165"
-  alt="Stats"
-/>
-
 </div>
 
 <br/>
 
-<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<!-- ─── DIVIDER ────────────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
 
 <br/>
@@ -206,7 +167,7 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 ## `> Projects`
 
-<!-- IMPORTANT: Verify repo names match your exact GitHub repo names. -->
+<!-- Update repo= values if your exact repo names differ. -->
 
 <a href="https://github.com/sai-sridhar-repo-07/AI-Fruit-Ninja">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sridhar-repo-07&repo=AI-Fruit-Ninja&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
@@ -234,83 +195,28 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              A R C A D E   Z O N E                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0040,70:2d0060,100:0d1117&height=140&text=%E2%96%BA%20ARCADE%20ZONE&fontSize=40&fontColor=bf91f3&animation=twinkling&fontAlignY=62&section=header"
-    alt="ARCADE ZONE"
-    width="100%"
-  />
-</div>
-
-<div align="center">
-
-```
- ╔═══════════════════════════════════════════════════════════╗
- ║           INSERT COIN TO START    [ PRESS  ANY  KEY ]    ║
- ╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
+<!-- ─── DIVIDER ────────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
 
 <br/>
 
 
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!-- GAME 01 — ACTIVITY GRAPH  (works immediately, no setup)       -->
-<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- ─── ACTIVITY ───────────────────────────────────────────────────── -->
 
 <div align="center">
 
-### `GAME 01` &nbsp;·&nbsp; Activity Graph &nbsp;·&nbsp; `[ LIVE ]`
+## `> Activity`
 
+<!-- Contribution activity graph — works immediately, no setup needed -->
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=sai-sridhar-repo-07&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb"
   width="100%"
-  alt="Activity Graph"
+  alt="Contribution Activity Graph"
 />
 
-</div>
+<br/><br/>
 
-<!-- Thin accent divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d0060,100:0d1117&height=1" width="100%" />
-
-<br/>
-
-
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!-- GAME 02 — CONTRIBUTION HEATMAP  (works immediately)           -->
-<!-- ─────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-### `GAME 02` &nbsp;·&nbsp; Contribution Heatmap &nbsp;·&nbsp; `[ LIVE ]`
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-sridhar-repo-07&theme=github_dark"
-  width="100%"
-  alt="Contribution Heatmap"
-/>
-
-</div>
-
-<!-- Thin accent divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%" />
-
-<br/>
-
-
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!-- GAME 03 — SNAKE  [ DARK ]  — activate by running Action below -->
-<!-- ─────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-### `GAME 03` &nbsp;·&nbsp; Contribution Snake &nbsp;·&nbsp; `[ DARK — Run Action to Activate ]`
-
+<!-- Contribution snake — activate by running the GitHub Action below -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -322,142 +228,26 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
   />
   <img
     src="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake Dark"
+    alt="Contribution Snake"
     width="100%"
   />
 </picture>
 
 </div>
 
-<!-- Thin accent divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d0060,100:0d1117&height=1" width="100%" />
+<br/>
+
+<!-- ─── DIVIDER ────────────────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
 
 <br/>
 
 
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!-- GAME 04 — SNAKE  [ HALLOWEEN ]                                -->
-<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- ─── TROPHIES ──────────────────────────────────────────────────── -->
 
 <div align="center">
 
-### `GAME 04` &nbsp;·&nbsp; Contribution Snake &nbsp;·&nbsp; `[ HALLOWEEN ]`
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-halloween.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-halloween.svg"
-    alt="Snake Halloween"
-    width="100%"
-  />
-</picture>
-
-</div>
-
-<!-- Thin accent divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e2800,100:0d1117&height=1" width="100%" />
-
-<br/>
-
-
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!-- GAME 05 — SNAKE  [ DRACULA ]                                  -->
-<!-- ─────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-### `GAME 05` &nbsp;·&nbsp; Contribution Snake &nbsp;·&nbsp; `[ DRACULA ]`
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-dracula.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-dracula.svg"
-    alt="Snake Dracula"
-    width="100%"
-  />
-</picture>
-
-</div>
-
-<!-- Thin accent divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d0060,100:0d1117&height=1" width="100%" />
-
-<br/>
-
-
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!-- GAME 06 — PLAYER STATS HUD                                    -->
-<!-- ─────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-### `GAME 06` &nbsp;·&nbsp; Player HUD
-
-```
-  ╔════════════════════════════════════════════════════════════╗
-  ║  PLAYER  ░  SAI SRIDHAR TARRA              SCORE  ░  ∞   ║
-  ╠════════════════════════════════════════════════════════════╣
-  ║  CLASS   ░  ML Engineer / Backend Dev                     ║
-  ║  LEVEL   ░  Production Systems                            ║
-  ║  XP      ░  1000+ LeetCode  ·  1K+ req/s Inference       ║
-  ╠════════════════════════════════════════════════════════════╣
-  ║  POWER   ░  PyTorch  FastAPI  C++  OpenCV  PostgreSQL     ║
-  ║  WORLD   ░  Accenture Enterprise — Hyderabad, IN          ║
-  ║  QUEST   ░  ML / Backend Engineer Role                    ║
-  ╠════════════════════════════════════════════════════════════╣
-  ║  STATUS  ░  ACTIVE          LIVES  ░  ♥ ♥ ♥              ║
-  ╚════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- Thin accent divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d0060,100:0d1117&height=1" width="100%" />
-
-<br/>
-
-
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!-- GAME 07 — ACHIEVEMENTS UNLOCKED                               -->
-<!-- ─────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-### `GAME 07` &nbsp;·&nbsp; Achievements Unlocked
-
-![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-1K%2B_Req%2Fs_Inference_Engine-00C853?style=for-the-badge&labelColor=1a0040)
-
-![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-1000%2B_LeetCode_Problems_Solved-FFA116?style=for-the-badge&labelColor=1a0040)
-
-![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-30%25_Enterprise_Issue_Reduction-58a6ff?style=for-the-badge&labelColor=1a0040)
-
-![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-20%2B_Hours_Automated_Monthly-bf91f3?style=for-the-badge&labelColor=1a0040)
-
-![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-Computer_Vision_%2B_AR_Systems-EE4C2C?style=for-the-badge&labelColor=1a0040)
-
-![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-ICPC_2025_Competitor-FFD700?style=for-the-badge&labelColor=1a0040)
-
-</div>
-
-<!-- Thin accent divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d0060,100:0d1117&height=1" width="100%" />
-
-<br/>
-
-
-<!-- ─────────────────────────────────────────────────────────────── -->
-<!-- GAME 08 — BOSS DROPS / TROPHIES                               -->
-<!-- ─────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-### `GAME 08` &nbsp;·&nbsp; Boss Drops
+## `> Trophies`
 
 <img
   src="https://github-profile-trophy.vercel.app/?username=sai-sridhar-repo-07&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4"
@@ -466,27 +256,15 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 </div>
 
-<!-- Arcade closing wave -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0060,50:1a0040,100:0d1117&height=90&section=footer"
-    width="100%"
-  />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 END OF ARCADE ZONE                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <br/>
 
-<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<!-- ─── DIVIDER ────────────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
 
 <br/>
 
 
-<!-- ─── DYNAMIC QUOTE ─────────────────────────────────────────────── -->
+<!-- ─── QUOTE ─────────────────────────────────────────────────────── -->
 
 <div align="center">
 
@@ -496,39 +274,7 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 <br/>
 
-<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
-
-<br/>
-
-
-<!-- ─── WRITING / BLOG ────────────────────────────────────────────── -->
-
-<div align="center">
-
-## `> Writing`
-
-</div>
-
-<details>
-<summary>&nbsp;&nbsp;<b>Coming soon — technical articles in progress.</b></summary>
-
-<br/>
-
-| Topic | Status |
-|---|---|
-| Building Production ML Inference Engines | In Progress |
-| Distributed System Design Patterns for ML | Planned |
-| High-Performance APIs with FastAPI | Planned |
-| Graph Algorithms for Competitive Programming | Planned |
-
-> Connect on LinkedIn to get notified when articles go live.
-
-</details>
-
-<br/>
-
-<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<!-- ─── DIVIDER ────────────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
 
 <br/>
@@ -540,7 +286,7 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 
 ## `> Connect`
 
-<!-- Update each URL below with your actual profile links. -->
+<!-- Replace placeholder URLs with your actual links. -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
 &nbsp;
@@ -579,17 +325,12 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
      SETUP GUIDE
      ═══════════════════════════════════════════════════════════════
 
-  GAMES 01 & 02 work immediately — no setup needed.
-  GAMES 03, 04, 05 (Snake) need a one-time GitHub Action run.
+  The activity graph loads immediately — no setup needed.
+  The snake animation needs one GitHub Action run (2 minutes):
 
-  ① ACTIVATE THE 3 SNAKE GAMES
-  ───────────────────────────────────────────────────────────────
-  1. In your profile repo (sai-sridhar-repo-07/sai-sridhar-repo-07),
-     create: .github/workflows/snake.yml
+  1. Create .github/workflows/snake.yml in your profile repo with:
 
-  2. Paste this content:
-
-       name: Generate Snake Animations
+       name: Generate Snake Animation
        on:
          schedule:
            - cron: "0 */12 * * *"
@@ -604,8 +345,6 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
                  outputs: |
                    dist/github-contribution-grid-snake.svg
                    dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-                   dist/github-contribution-grid-snake-halloween.svg?palette=halloween
-                   dist/github-contribution-grid-snake-dracula.svg?palette=dracula
                env:
                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
              - uses: crazy-max/ghaction-github-pages@v3
@@ -615,23 +354,11 @@ Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
                env:
                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  3. Go to Actions tab → "Generate Snake Animations" → Run workflow.
-  4. All 3 snakes appear after ~1 minute.
+  2. Go to Actions → Run workflow → snake appears in ~1 minute.
 
-  ② STATS CARDS NOT LOADING?
-  ───────────────────────────────────────────────────────────────
-  - The public github-readme-stats Vercel instance can rate-limit.
-  - This is temporary — it usually recovers within minutes.
-  - Games 01 & 02 use a separate service (github-profile-summary-cards)
-    so they load independently and never conflict.
-
-  ③ CUSTOMIZATION CHECKLIST
-  ───────────────────────────────────────────────────────────────
-  [ ] Replace YOUR_LINKEDIN   → your LinkedIn profile slug
-  [ ] Replace YOUR_PORTFOLIO  → your portfolio URL
-  [ ] Replace YOUR_EMAIL      → your email address
-  [ ] Replace YOUR_HANDLE     → your X/Twitter handle
-  [ ] Verify the 4 repo names in Projects section match exactly
-  [ ] Create snake.yml and run it once from the Actions tab
+  CUSTOMIZATION CHECKLIST
+  [ ] Replace YOUR_LINKEDIN, YOUR_PORTFOLIO, YOUR_EMAIL, YOUR_HANDLE
+  [ ] Verify the 4 repo names in Projects match your exact repo names
+  [ ] Run the snake workflow once
 
   ═══════════════════════════════════════════════════════════════ -->
