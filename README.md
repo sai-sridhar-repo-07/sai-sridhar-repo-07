@@ -1,148 +1,637 @@
-<!-- ================================================= -->
-<!-- 🔵⚡ NEON FLAME — ANIMATED BLUE EDITION ⚡🔵 -->
-<!-- ================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════
+     GitHub Profile README — Sai Sridhar Tarra
+     Repo  : github.com/sai-sridhar-repo-07/sai-sridhar-repo-07
+     Theme : Dark · Minimal · Animated · Arcade
+     ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Animated Gradient Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Tarra%20Sai%20Sridhar&fontSize=48&fontColor=ffffff&color=0:00E5FF,50:0096FF,100:0077FF&animation=twinkling"/>
-</p>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2200&pause=800&color=0096FF&center=true&vCenter=true&width=950&lines=Software+Development+Engineer;Machine+Learning+Engineer;Real-Time+ML+Systems;Scalable+Backend+Architecture;1000%2B+DSA+Problems+Solved"/>
-</p>
+<!-- ─── HERO HEADER ──────────────────────────────────────────────── -->
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:00E5FF,100:0096FF"/>
-</p>
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,60:0d2137,100:0d1117&height=230&section=header&text=Sai%20Sridhar%20Tarra&fontSize=54&fontColor=e6edf3&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Backend%20Engineer&descSize=17&descAlignY=56&descColor=58a6ff"
+    alt="header"
+    width="100%"
+  />
+</div>
 
----
 
-# ✨ PROFILE
+<!-- ─── TYPING ANIMATION ─────────────────────────────────────────── -->
 
-```yaml
-current_role: LMS Technical & Data Analyst @ Accenture
-target: Backend Engineer | Machine Learning Engineer
-specialization: Production ML + Distributed Systems
-competitive_programming: 1000+ LeetCode | CF Specialist
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=52&lines=Machine+Learning+Engineer;AI+Systems+Builder;Full+Stack+Developer;Competitive+Programmer+%E2%80%94+1000%2B+LeetCode;Production+ML+%C2%B7+Real-time+Inference+%C2%B7+Scale)](https://git.io/typing-svg)
+
+</div>
+
+
+<!-- ─── QUICK BADGES ──────────────────────────────────────────────── -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sai-sridhar-repo-07&style=flat-square&color=1f6feb&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/sai-sridhar-repo-07?style=flat-square&color=1f6feb&label=Followers&logo=github&logoColor=white)](https://github.com/sai-sridhar-repo-07?tab=followers)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-1000%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=FFA116&labelColor=0d1117)](https://leetcode.com)
+&nbsp;
+[![Location](https://img.shields.io/badge/Hyderabad%2C%20IN-0d1117?style=flat-square&logo=googlemaps&logoColor=EA4335)](https://github.com/sai-sridhar-repo-07)
+
+</div>
+
+<br/>
+
+<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
+
+<br/>
+
+
+<!-- ─── ABOUT ─────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+## `> About`
+
+</div>
+
+```text
+Production ML  ·  Real-time Inference  ·  Distributed Systems  ·  Scale
 ```
 
-⚡ Built real-time ML inference engine serving 1K+ requests/sec  
-⚡ Reduced enterprise recurring issues by 30%  
-⚡ Automated reporting workflows (20+ hrs/month saved)  
-⚡ Strong DSA and system design foundation  
+- **ML Systems at Scale** — Built inference engines serving **1K+ requests/sec**; end-to-end pipelines from raw data to deployed production models.
+- **Backend Architecture** — FastAPI microservices, distributed system design, high-performance APIs built to hold under pressure.
+- **Competitive Programmer** — **1000+ LeetCode problems** solved; deep expertise in algorithms, data structures, and system design.
+- **Currently** — LMS Technical & Data Analyst at **Accenture**, Hyderabad · Targeting **ML / Backend Engineering** roles.
 
----
+<br/>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0096FF,100:00E5FF"/>
-</p>
+<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
 
-# 🔥 DEMANDCAST — PRODUCTION ML SYSTEM
+<br/>
 
-```diff
-+ 50K+ SKU Forecasting
-+ LSTM + Temporal Attention
-+ 22% lower MAPE vs ARIMA
-+ FastAPI Real-Time Inference
-+ Redis Sub-50ms Latency
-+ Kafka Streaming Architecture
-+ Drift Detection + Auto Retraining
+
+<!-- ─── TECH STACK ────────────────────────────────────────────────── -->
+
+<div align="center">
+
+## `> Stack`
+
+#### Languages
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+#### ML & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=4285F4)
+
+#### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=c9d1d9)
+![REST API](https://img.shields.io/badge/REST%20API-0d1117?style=for-the-badge&logo=fastapi&logoColor=58a6ff)
+
+#### Frontend
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+#### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+
+</div>
+
+<br/>
+
+<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
+
+<br/>
+
+
+<!-- ─── GITHUB ANALYTICS ──────────────────────────────────────────── -->
+
+<div align="center">
+
+## `> Analytics`
+
+<!-- Primary stats row -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sai-sridhar-repo-07&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb&cache_seconds=1800"
+  height="175"
+  alt="GitHub Stats"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://streak-stats.demolab.com?user=sai-sridhar-repo-07&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"
+  height="175"
+  alt="GitHub Streak"
+/>
+
+<br/>
+
+<!-- Top languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-sridhar-repo-07&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800"
+  height="155"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<!-- Profile Summary Cards — second source, loads independently -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-sridhar-repo-07&theme=github_dark"
+  width="100%"
+  alt="Profile Details"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai-sridhar-repo-07&theme=github_dark"
+  height="165"
+  alt="Repos Per Language"
+/>
+&nbsp;
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sai-sridhar-repo-07&theme=github_dark"
+  height="165"
+  alt="Most Commit Language"
+/>
+&nbsp;
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sai-sridhar-repo-07&theme=github_dark"
+  height="165"
+  alt="Stats"
+/>
+
+</div>
+
+<br/>
+
+<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
+
+<br/>
+
+
+<!-- ─── FEATURED PROJECTS ─────────────────────────────────────────── -->
+
+<div align="center">
+
+## `> Projects`
+
+<!-- IMPORTANT: Verify repo names match your exact GitHub repo names. -->
+
+<a href="https://github.com/sai-sridhar-repo-07/AI-Fruit-Ninja">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sridhar-repo-07&repo=AI-Fruit-Ninja&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</a>
+&nbsp;
+<a href="https://github.com/sai-sridhar-repo-07/Urban-House-Price-Intelligence">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sridhar-repo-07&repo=Urban-House-Price-Intelligence&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/sai-sridhar-repo-07/Neon-Air-Drawing-Application">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sridhar-repo-07&repo=Neon-Air-Drawing-Application&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</a>
+&nbsp;
+<a href="https://github.com/sai-sridhar-repo-07/ICPC-2025">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai-sridhar-repo-07&repo=ICPC-2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</a>
+
+<br/><br/>
+
+[![View All](https://img.shields.io/badge/View%20All%20Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sai-sridhar-repo-07?tab=repositories)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              A R C A D E   Z O N E                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a0040,70:2d0060,100:0d1117&height=140&text=%E2%96%BA%20ARCADE%20ZONE&fontSize=40&fontColor=bf91f3&animation=twinkling&fontAlignY=62&section=header"
+    alt="ARCADE ZONE"
+    width="100%"
+  />
+</div>
+
+<div align="center">
+
+```
+ ╔═══════════════════════════════════════════════════════════╗
+ ║           INSERT COIN TO START    [ PRESS  ANY  KEY ]    ║
+ ╚═══════════════════════════════════════════════════════════╝
 ```
 
-### System Flow
+</div>
+
+<br/>
+
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- GAME 01 — ACTIVITY GRAPH  (works immediately, no setup)       -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+### `GAME 01` &nbsp;·&nbsp; Activity Graph &nbsp;·&nbsp; `[ LIVE ]`
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sai-sridhar-repo-07&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb"
+  width="100%"
+  alt="Activity Graph"
+/>
+
+</div>
+
+<!-- Thin accent divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d0060,100:0d1117&height=1" width="100%" />
+
+<br/>
+
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- GAME 02 — CONTRIBUTION HEATMAP  (works immediately)           -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+### `GAME 02` &nbsp;·&nbsp; Contribution Heatmap &nbsp;·&nbsp; `[ LIVE ]`
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-sridhar-repo-07&theme=github_dark"
+  width="100%"
+  alt="Contribution Heatmap"
+/>
+
+</div>
+
+<!-- Thin accent divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6feb,100:0d1117&height=1" width="100%" />
+
+<br/>
+
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- GAME 03 — SNAKE  [ DARK ]  — activate by running Action below -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+### `GAME 03` &nbsp;·&nbsp; Contribution Snake &nbsp;·&nbsp; `[ DARK — Run Action to Activate ]`
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Dark"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+<!-- Thin accent divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d0060,100:0d1117&height=1" width="100%" />
+
+<br/>
+
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- GAME 04 — SNAKE  [ HALLOWEEN ]                                -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+### `GAME 04` &nbsp;·&nbsp; Contribution Snake &nbsp;·&nbsp; `[ HALLOWEEN ]`
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-halloween.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-halloween.svg"
+    alt="Snake Halloween"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+<!-- Thin accent divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:6e2800,100:0d1117&height=1" width="100%" />
+
+<br/>
+
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- GAME 05 — SNAKE  [ DRACULA ]                                  -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+### `GAME 05` &nbsp;·&nbsp; Contribution Snake &nbsp;·&nbsp; `[ DRACULA ]`
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-dracula.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/sai-sridhar-repo-07/sai-sridhar-repo-07/output/github-contribution-grid-snake-dracula.svg"
+    alt="Snake Dracula"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+<!-- Thin accent divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d0060,100:0d1117&height=1" width="100%" />
+
+<br/>
+
+
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- GAME 06 — PLAYER STATS HUD                                    -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+### `GAME 06` &nbsp;·&nbsp; Player HUD
 
 ```
-Data Ingestion
-   ↓
-Feature Engineering
-   ↓
-Model Training
-   ↓
-FastAPI Inference
-   ↓
-Redis Cache
-   ↓
-Kafka Stream
-   ↓
-PostgreSQL Storage
-   ↓
-Monitoring & Drift Detection
+  ╔════════════════════════════════════════════════════════════╗
+  ║  PLAYER  ░  SAI SRIDHAR TARRA              SCORE  ░  ∞   ║
+  ╠════════════════════════════════════════════════════════════╣
+  ║  CLASS   ░  ML Engineer / Backend Dev                     ║
+  ║  LEVEL   ░  Production Systems                            ║
+  ║  XP      ░  1000+ LeetCode  ·  1K+ req/s Inference       ║
+  ╠════════════════════════════════════════════════════════════╣
+  ║  POWER   ░  PyTorch  FastAPI  C++  OpenCV  PostgreSQL     ║
+  ║  WORLD   ░  Accenture Enterprise — Hyderabad, IN          ║
+  ║  QUEST   ░  ML / Backend Engineer Role                    ║
+  ╠════════════════════════════════════════════════════════════╣
+  ║  STATUS  ░  ACTIVE          LIVES  ░  ♥ ♥ ♥              ║
+  ╚════════════════════════════════════════════════════════════╝
 ```
 
-Stack  
-`Python • PyTorch • XGBoost • FastAPI • Kafka • Redis • PostgreSQL`
+</div>
 
----
+<!-- Thin accent divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d0060,100:0d1117&height=1" width="100%" />
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:00E5FF,100:0077FF"/>
-</p>
+<br/>
 
-# 🌐 SKILLSWAP — DISTRIBUTED PLATFORM
 
-```
-WebRTC Real-Time Sessions
-ACID Credit Ledger (PostgreSQL)
-MongoDB User Graph
-Reputation + Fraud Protection
-```
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- GAME 07 — ACHIEVEMENTS UNLOCKED                               -->
+<!-- ─────────────────────────────────────────────────────────────── -->
 
-Engineered for scalability and transactional integrity.
+<div align="center">
 
----
+### `GAME 07` &nbsp;·&nbsp; Achievements Unlocked
 
-# 🧠 TECH STACK
+![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-1K%2B_Req%2Fs_Inference_Engine-00C853?style=for-the-badge&labelColor=1a0040)
 
-### Machine Learning
-`PyTorch • TensorFlow • XGBoost • Scikit-Learn • AI Agents`
+![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-1000%2B_LeetCode_Problems_Solved-FFA116?style=for-the-badge&labelColor=1a0040)
 
-### Backend & Systems
-`FastAPI • Node.js • Express • REST APIs • Kafka • Redis`
+![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-30%25_Enterprise_Issue_Reduction-58a6ff?style=for-the-badge&labelColor=1a0040)
 
-### Databases
-`PostgreSQL • MongoDB • SQL`
+![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-20%2B_Hours_Automated_Monthly-bf91f3?style=for-the-badge&labelColor=1a0040)
 
-### Languages
-`Python • C++ • JavaScript • C`
+![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-Computer_Vision_%2B_AR_Systems-EE4C2C?style=for-the-badge&labelColor=1a0040)
 
----
+![](https://img.shields.io/badge/%E2%96%BA_ACHIEVEMENT-ICPC_2025_Competitor-FFD700?style=for-the-badge&labelColor=1a0040)
 
-<!-- Animated Stats Section -->
-# 📊 LIVE METRICS
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai-sridhar-repo-07&show_icons=true&title_color=0096FF&icon_color=00CFFF&text_color=333333&bg_color=ffffff"/>
-</p>
+<!-- Thin accent divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d0060,100:0d1117&height=1" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-sridhar-repo-07&ring=0096FF&fire=00CFFF&currStreakLabel=0096FF&background=ffffff"/>
-</p>
+<br/>
 
----
 
-# 🧩 LEETCODE PERFORMANCE
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!-- GAME 08 — BOSS DROPS / TROPHIES                               -->
+<!-- ─────────────────────────────────────────────────────────────── -->
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/tarrasridhar1154?theme=light&font=JetBrains%20Mono&ext=contest"/>
-</p>
+<div align="center">
 
----
+### `GAME 08` &nbsp;·&nbsp; Boss Drops
 
-# 🚀 CURRENT FOCUS
+<img
+  src="https://github-profile-trophy.vercel.app/?username=sai-sridhar-repo-07&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4"
+  alt="GitHub Trophies"
+/>
 
-- High-performance backend engineering  
-- Real-time ML deployment  
-- AI agents & LLM systems  
-- Scalable architecture design  
+</div>
 
----
+<!-- Arcade closing wave -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0060,50:1a0040,100:0d1117&height=90&section=footer"
+    width="100%"
+  />
+</div>
 
-<!-- Final Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0077FF,100:00E5FF&animation=twinkling"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 END OF ARCADE ZONE                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<br/>
+
+<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
+
+<br/>
+
+
+<!-- ─── DYNAMIC QUOTE ─────────────────────────────────────────────── -->
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<br/>
+
+<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
+
+<br/>
+
+
+<!-- ─── WRITING / BLOG ────────────────────────────────────────────── -->
+
+<div align="center">
+
+## `> Writing`
+
+</div>
+
+<details>
+<summary>&nbsp;&nbsp;<b>Coming soon — technical articles in progress.</b></summary>
+
+<br/>
+
+| Topic | Status |
+|---|---|
+| Building Production ML Inference Engines | In Progress |
+| Distributed System Design Patterns for ML | Planned |
+| High-Performance APIs with FastAPI | Planned |
+| Graph Algorithms for Competitive Programming | Planned |
+
+> Connect on LinkedIn to get notified when articles go live.
+
+</details>
+
+<br/>
+
+<!-- ─── GRADIENT DIVIDER ───────────────────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:1f6feb,60:58a6ff,100:0d1117&height=2&section=header" width="100%" />
+
+<br/>
+
+
+<!-- ─── CONNECT ───────────────────────────────────────────────────── -->
+
+<div align="center">
+
+## `> Connect`
+
+<!-- Update each URL below with your actual profile links. -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_LINKEDIN)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c9d1d9)](https://YOUR_PORTFOLIO.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:YOUR_EMAIL)
+&nbsp;
+[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=c9d1d9)](https://x.com/YOUR_HANDLE)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/sai-sridhar-repo-07)
+
+</div>
+
+<br/>
+
+
+<!-- ─── FOOTER ────────────────────────────────────────────────────── -->
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1628,70:0d2137,100:0d1117&height=130&section=footer"
+  width="100%"
+/>
+
+<div align="center">
+
+![Views](https://komarev.com/ghpvc/?username=sai-sridhar-repo-07&style=flat-square&color=1f6feb&label=PROFILE+VIEWS)
+
+*"Build systems that think. Write code that lasts."*
+
+**Sai Sridhar Tarra** &nbsp;·&nbsp; Hyderabad, IN &nbsp;·&nbsp; [github.com/sai-sridhar-repo-07](https://github.com/sai-sridhar-repo-07)
+
+</div>
+
+
+<!-- ═══════════════════════════════════════════════════════════════
+     SETUP GUIDE
+     ═══════════════════════════════════════════════════════════════
+
+  GAMES 01 & 02 work immediately — no setup needed.
+  GAMES 03, 04, 05 (Snake) need a one-time GitHub Action run.
+
+  ① ACTIVATE THE 3 SNAKE GAMES
+  ───────────────────────────────────────────────────────────────
+  1. In your profile repo (sai-sridhar-repo-07/sai-sridhar-repo-07),
+     create: .github/workflows/snake.yml
+
+  2. Paste this content:
+
+       name: Generate Snake Animations
+       on:
+         schedule:
+           - cron: "0 */12 * * *"
+         workflow_dispatch:
+       jobs:
+         generate:
+           runs-on: ubuntu-latest
+           steps:
+             - uses: Platane/snk@v3
+               with:
+                 github_user_name: sai-sridhar-repo-07
+                 outputs: |
+                   dist/github-contribution-grid-snake.svg
+                   dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+                   dist/github-contribution-grid-snake-halloween.svg?palette=halloween
+                   dist/github-contribution-grid-snake-dracula.svg?palette=dracula
+               env:
+                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+             - uses: crazy-max/ghaction-github-pages@v3
+               with:
+                 target_branch: output
+                 build_dir: dist
+               env:
+                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Go to Actions tab → "Generate Snake Animations" → Run workflow.
+  4. All 3 snakes appear after ~1 minute.
+
+  ② STATS CARDS NOT LOADING?
+  ───────────────────────────────────────────────────────────────
+  - The public github-readme-stats Vercel instance can rate-limit.
+  - This is temporary — it usually recovers within minutes.
+  - Games 01 & 02 use a separate service (github-profile-summary-cards)
+    so they load independently and never conflict.
+
+  ③ CUSTOMIZATION CHECKLIST
+  ───────────────────────────────────────────────────────────────
+  [ ] Replace YOUR_LINKEDIN   → your LinkedIn profile slug
+  [ ] Replace YOUR_PORTFOLIO  → your portfolio URL
+  [ ] Replace YOUR_EMAIL      → your email address
+  [ ] Replace YOUR_HANDLE     → your X/Twitter handle
+  [ ] Verify the 4 repo names in Projects section match exactly
+  [ ] Create snake.yml and run it once from the Actions tab
+
+  ═══════════════════════════════════════════════════════════════ -->
