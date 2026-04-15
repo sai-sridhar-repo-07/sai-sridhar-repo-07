@@ -2,7 +2,7 @@
 
 mechanical grad from hyderabad who somehow ended up doing ml. i like building things that are fast and actually work.
 
-<img align="right" alt="pixel art" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360" />
+<img align="right" alt="ben10 pixel art" src="https://media.tenor.com/ELf1FnfWtuUAAAAC/ben-10-omnitrix.gif" width="300" />
 
 ### about me
 
@@ -11,10 +11,10 @@ mechanical grad from hyderabad who somehow ended up doing ml. i like building th
 - obsessed with real-time ml, computer vision, anything fast
 - fun fact: mechanical grad doing ml is peak chaotic energy
 - currently learning distributed training and rust (pray for me)
-- reach out: saisridhartarra@gmail.com
+- reach out: tarrasridhar1154@gmail.com
 - connect on [linkedin](https://www.linkedin.com/in/sai-sridhar-tarra-2a77561a2)
 
-<img align="left" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="180" />
+<img align="left" src="https://media.tenor.com/up4b4PSELdkAAAAC/tux-linux.gif" width="180" />
 
 <br clear="both" />
 
