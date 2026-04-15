@@ -1,6 +1,6 @@
 ### hey, i'm sai 👋
 
-cs grad from hyderabad, working as an ml engineer. i like building things that are fast and actually useful.
+mechanical grad from hyderabad, working as an ml engineer. i like building things that are fast and actually useful.
 
 <img align="right" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 
