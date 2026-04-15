@@ -2,7 +2,7 @@
 
 mechanical grad from hyderabad who somehow ended up doing ml. i like building things that are fast and actually work.
 
-<img align="right" alt="ben10 pixel art" src="https://media.tenor.com/ELf1FnfWtuUAAAAC/ben-10-omnitrix.gif" width="300" />
+<img align="right" alt="pixel city" src="https://media.tenor.com/BaVZdhpbUMgAAAAC/skyscrapers-sunset.gif" width="300" />
 
 ### about me
 
@@ -15,10 +15,4 @@ mechanical grad from hyderabad who somehow ended up doing ml. i like building th
 - connect on [linkedin](https://www.linkedin.com/in/sai-sridhar-tarra-2a77561a2)
 
 <img align="left" src="https://media.tenor.com/up4b4PSELdkAAAAC/tux-linux.gif" width="180" />
-
-<br clear="both" />
-
-### things i work with
-
-`python` &nbsp; `pytorch` &nbsp; `fastapi` &nbsp; `postgresql` &nbsp; `docker` &nbsp; `c++`
 
