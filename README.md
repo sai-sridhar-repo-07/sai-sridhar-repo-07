@@ -2,7 +2,7 @@
 
 mechanical grad from hyderabad who somehow ended up doing ml. i like building things that are fast and actually work.
 
-<img align="right" alt="pixel city" src="https://media1.giphy.com/media/LSKHkpRJySs5W81D7B/giphy.gif" width="380" />
+<img align="right" alt="pixel art" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="360" />
 
 ### about me
 
@@ -12,11 +12,13 @@ mechanical grad from hyderabad who somehow ended up doing ml. i like building th
 - fun fact: mechanical grad doing ml is peak chaotic energy
 - currently learning distributed training and rust (pray for me)
 - reach out: saisridhartarra@gmail.com
-- connect on [linkedin](https://linkedin.com/in/sai-sridhar-tarra)
+- connect on [linkedin](https://www.linkedin.com/in/sai-sridhar-tarra-2a77561a2)
 
-<img align="left" src="https://media3.giphy.com/media/5xRW2cUKfcyQg/giphy.gif" width="200" />
+<img align="left" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="180" />
+
+<br clear="both" />
 
 ### things i work with
 
-`python` `pytorch` `fastapi` `postgresql` `docker` `c++`
+`python` &nbsp; `pytorch` &nbsp; `fastapi` &nbsp; `postgresql` &nbsp; `docker` &nbsp; `c++`
 
