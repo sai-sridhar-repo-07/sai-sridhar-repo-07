@@ -2,7 +2,7 @@
 mechanical grad from hyderabad who somehow ended up doing ml. i like building things that are fast and actually work.
 <img align="right" alt="pixel city" src="https://media.tenor.com/BaVZdhpbUMgAAAAC/skyscrapers-sunset.gif" width="300" />
 ### about me
-- ml engineer @ accenture breaking prod one pipeline at a time
+- ml engineer breaking prod one pipeline at a time
 - solved 1000+ leetcode problems — still not happy about it
 - obsessed with real-time ml, computer vision, anything fast
 - fun fact: mechanical grad doing ml is peak chaotic energy
