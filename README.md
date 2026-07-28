@@ -4,7 +4,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sridhar-3009&color=00FF88&style=flat-square&label=Profile+Views)](https://github.com/sridhar-3009)
 [![GitHub followers](https://img.shields.io/github/followers/sridhar-3009?style=flat-square&color=00FF88&label=Followers)](https://github.com/sridhar-3009?tab=followers)
-[![Years on GitHub](https://badges.pufler.dev/years/sridhar-3009?style=flat-square&color=00FF88)](https://github.com/sridhar-3009)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/sridhar-3009&query=public_repos&style=flat-square&color=00FF88&label=Public+Repos)](https://github.com/sridhar-3009?tab=repositories)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <img align="right" alt="coding" src="https://media.tenor.com/BaVZdhpbUMgAAAAC/skyscrapers-sunset.gif" width="280" />
 
-mechanical grad from hyderabad who somehow ended up doing ml.  
+mechanical grad from hyderabad who somehow ended up doing ml.
 i like building things that are **fast**, **intelligent**, and actually ship.
 
 **what i'm up to:**
@@ -35,26 +35,19 @@ i like building things that are **fast**, **intelligent**, and actually ship.
 
 ### 📊 github stats
 
+> Stats auto-generated daily by [lowlighter/metrics](https://github.com/lowlighter/metrics) — no third-party rate limits.
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sridhar-3009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar-3009&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&hide=html,css"/>
+<img src="metrics.stats.svg" alt="GitHub Stats" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sridhar-3009&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70a5fd&ring=bf91f3&fire=FF6B00&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&sideLabels=888888&dates=555555)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🏆 github trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sridhar-3009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="metrics.langs.svg" alt="Top Languages" width="49%"/>
+&nbsp;
+<img src="metrics.achievements.svg" alt="Achievements" width="49%"/>
 
 </div>
 
@@ -101,21 +94,11 @@ i like building things that are **fast**, **intelligent**, and actually ship.
 
 ---
 
-### 📈 contribution graph
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sridhar-3009&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ### 🤝 hire me / collab
 
 > *"I don't just build models — I build systems that work in production."*
 
-🟢 **currently available** — open to ML engineering roles, research collabs, and open source contributions.  
+🟢 **currently available** — open to ML engineering roles, research collabs, and open source contributions.
 drop a message → [tarrasridhar1154@gmail.com](mailto:tarrasridhar1154@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
