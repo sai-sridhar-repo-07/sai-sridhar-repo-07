@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Sridhar%20Tarra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20AI%20Builder%20%7C%20Founder&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sai%20Sridhar%20Tarra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Open%20Source%20%7C%20AI%20Builder&descAlignY=55&descSize=16" width="100%"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sridhar-3009&color=00FF88&style=flat-square&label=Profile+Views)](https://github.com/sridhar-3009)
 [![GitHub followers](https://img.shields.io/github/followers/sridhar-3009?style=flat-square&color=00FF88&label=Followers)](https://github.com/sridhar-3009?tab=followers)
@@ -18,11 +18,12 @@ mechanical grad from hyderabad who somehow ended up doing ml.
 i like building things that are **fast**, **intelligent**, and actually ship.
 
 **what i'm up to:**
-- 🏢 ML Engineer @ **Accenture** — production pipelines, LLMs, computer vision
+- 🟢 **Free agent** — actively looking for my next ML challenge
+- 🔓 Contributing to **open source** full-time
 - 🚀 Founded **[MailAir](https://saisridhartarra.in)** — AI-powered email automation
 - 🧠 Building with PyTorch, FastAPI, RAG systems, and anything LLM-shaped
 - 💡 1000+ LeetCode problems — still not happy about it
-- 📍 Hyderabad, India · Open to remote roles
+- 📍 Hyderabad, India · **Open to remote & relocation**
 
 **reach me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-sridhar-tarra-2a77561a2)
@@ -111,11 +112,11 @@ i like building things that are **fast**, **intelligent**, and actually ship.
 
 ---
 
-### 🤝 let's build something
+### 🤝 hire me / collab
 
 > *"I don't just build models — I build systems that work in production."*
 
-open to **ML engineering roles**, **research collabs**, and **interesting projects**.  
+🟢 **currently available** — open to ML engineering roles, research collabs, and open source contributions.  
 drop a message → [tarrasridhar1154@gmail.com](mailto:tarrasridhar1154@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
