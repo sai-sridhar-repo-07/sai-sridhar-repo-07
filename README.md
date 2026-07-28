@@ -37,25 +37,24 @@ i like building things that are **fast**, **intelligent**, and actually ship.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sridhar-3009&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=ffffff&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar-3009&layout=compact&theme=dark&bg_color=0d1117&title_color=00FF88&text_color=ffffff&border_color=30363d&langs_count=8&hide=html,css,scss" height="180" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sridhar-3009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sridhar-3009&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&hide=html,css"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sridhar-3009&theme=dark&background=0d1117&border=30363d&stroke=00FF88&ring=00FF88&fire=FF6B00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF88&sideLabels=888888&dates=666666" width="49%" alt="Streak Stats"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sridhar-3009&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70a5fd&ring=bf91f3&fire=FF6B00&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&sideLabels=888888&dates=555555)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 🏆 trophies
+### 🏆 github trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sridhar-3009&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sridhar-3009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -106,7 +105,7 @@ i like building things that are **fast**, **intelligent**, and actually ship.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sridhar-3009&bg_color=0d1117&color=00FF88&line=00FF88&point=FF6B00&area=true&area_color=00FF8822&hide_border=true" width="100%" alt="Contribution Graph"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sridhar-3009&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
